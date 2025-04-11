@@ -28,3 +28,13 @@ This Android application fetches transaction data from a REST API, displays it u
 - **ViewBinding** – For efficient UI handling
 
 ---
+
+## 🛠️ Setup & Installation
+
+1. Clone this repo:
+  
+ git clone https://github.com/SomnathNikam/task1-api-transactions.git
+ 
+2. Open the Project in your Android Studio
+
+3.Or else find the real app in the releases folder
