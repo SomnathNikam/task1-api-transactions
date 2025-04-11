@@ -15,6 +15,7 @@ This Android application fetches transaction data from a REST API, displays it u
 ## 📱 Screenshots
 ![954ddbf9-e75c-49e0-9894-b9c9e192d919](https://github.com/user-attachments/assets/272d6637-48ed-426b-9caf-fba77c1c16b4)
 ![9cd96928-a687-496d-ad0b-ba9c54a283df](https://github.com/user-attachments/assets/15b43560-292a-4434-8199-18f1d8d706e0)
+![aaf097c7-1f78-4fd5-bdcc-28d9e2bcf3c5](https://github.com/user-attachments/assets/023a4417-3395-41c1-b14c-0ead70f9df25)
 
 
 ---
